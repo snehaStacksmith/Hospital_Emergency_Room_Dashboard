@@ -90,15 +90,10 @@ This dashboard answers those questions in one view.
 
 If you can't open it, see `Dashboard_Preview.pdf`.
 
----
-
-## 🙏 Acknowledgements
-
-Built while learning from Satish Dhawale's Excel project tutorial (Skill Course). Dataset and project structure follow the course; the analysis, findings, and write-up are my own.
 
 ---
 
 ## 📬 Connect
 
-**Sneha** – CS Engineering student (UIT-RGPV), aspiring Business Analyst
-🔗 LinkedIn: [add your profile link]
+
+🔗 LinkedIn: [www.linkedin.com/in/sneha-shrivastava21]
